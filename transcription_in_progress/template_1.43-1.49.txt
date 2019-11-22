@@ -1,0 +1,29 @@
+# 1.43-1.49
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.43	ὣς ἔφατʼ εὐχόμενος , τοῦ δʼ ἔκλυε Φοῖβος Ἀπόλλων ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.43	w(\s e)/fat# eu)xo/menos , tou= d# e)/klue *foi=bos *a)po/llwn ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.43		w(\s e)/fat# eu)xo/menos , tou= d# e)/klue *foi=bos *a)po/llwn ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.44	βῆ δὲ κατʼ Οὐλύμποιο καρήνων χωόμενος κῆρ ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.44	bh= de\ kat# *ou)lu/mpoio karh/nwn xwo/menos kh=r ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.44		bh= de\ kat# *ou)lu/mpoio karh/nwn xwo/menos kh=r ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.45	τόξʼ ὤμοισιν ἔχων ἀμφηρεφέα τε φαρέτρην ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.45	to/c# w)/moisin e)/xwn a)mfhrefe/a te fare/trhn #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.45		to/c# w)/moisin e)/xwn a)mfhrefe/a te fare/trhn #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.46	ἔκλαγξαν δʼ ἄρʼ ὀϊστοὶ ἐπʼ ὤμων χωομένοιο ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.46	e)/klagcan d# a)/r# o)i+stoi\ e)p# w)/mwn xwome/noio ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.46		e)/klagcan d# a)/r# o)i+stoi\ e)p# w)/mwn xwome/noio ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.47	αὐτοῦ κινηθέντος · ὃ δʼ ἤϊε νυκτὶ ἐοικώς .
+urn:cts:greekLit:tlg0012.tlg001.allen:1.47	au)tou= kinhqe/ntos # o(\ d# h)/i+e nukti\ e)oikw/s .
+urn:cts:greekLit:tlg0012.tlg001.e4:1.47		au)tou= kinhqe/ntos # o(\ d# h)/i+e nukti\ e)oikw/s .
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.48	ἕζετʼ ἔπειτʼ ἀπάνευθε νεῶν , μετὰ δʼ ἰὸν ἕηκε ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.48	e(/zet# e)/peit# a)pa/neuqe new=n , meta\ d# i)o\n e(/hke #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.48		e(/zet# e)/peit# a)pa/neuqe new=n , meta\ d# i)o\n e(/hke #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.49	δεινὴ δὲ κλαγγὴ γένετʼ ἀργυρέοιο βιοῖο ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.49	deinh\ de\ klaggh\ ge/net# a)rgure/oio bioi=o #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.49		deinh\ de\ klaggh\ ge/net# a)rgure/oio bioi=o #

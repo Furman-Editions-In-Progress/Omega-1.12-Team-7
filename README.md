@@ -1,12 +1,12 @@
-# Editorial Work, Group X
+# Editorial Work, Team 7
 
 MS Escorial Omega 1.12
 
 Editors:
 
-- A. Amundssen
-- B. Bonari
-- C. Chung
+- S. Bowman
+- M. Butts
+- N. LaDine
 
 Furman University, Department of Classics
 

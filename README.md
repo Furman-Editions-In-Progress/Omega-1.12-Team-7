@@ -7,6 +7,7 @@ Editors:
 - S. Bowman
 - M. Butts
 - N. LaDine
+- B. Trader
 
 Furman University, Department of Classics
 
